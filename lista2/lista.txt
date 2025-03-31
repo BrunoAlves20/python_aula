@@ -1,0 +1,27 @@
+1. Crie uma função para calcular as quatro operações da matemática (soma, subtração, divisão e multiplicação)
+ sendo fornecidos 2 números e informando o resultado de cada operação
+
+ 2. Criar uma função para retornar se um número se é par ou impar
+
+3. Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. 
+Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
+
+4. Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular 
+(largura e comprimento) e mostre a área do terreno.
+
+5. Faça uma função que informe a quantidade de dígitos de um determinado número inteiro informado pelo usuário.
+
+6. Faça uma função chamada somalmposto. A função possui dois parâmetros:
+
+a) taxalmposto, que é a porcentagem de imposto sobre vendas
+
+b) custo, que é o custo de um item antes do imposto.
+
+A função retorna o valor de custo alterado para incluir o imposto sobre vendas.
+
+7. Criar uma função para gerar uma matriz 10x10 (array) de forma aleatória.
+
+8. Faça um programa que tenha uma lista pronta chamada números e duas funções chamadas sorteia() e somaPar(). 
+A A primeira função vai sortear 5 números da lista e vai colocá-los em outra lista e
+ a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior. 
+ (Utilize o import Random e a função sorteados ficará parcialmente: sorteados = random.sample(lista, 5))
